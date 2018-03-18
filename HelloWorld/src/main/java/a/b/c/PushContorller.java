@@ -3,7 +3,8 @@ package a.b.c;
 public class PushContorller {
     
     public static void main(String[] args) {
-        System.out.println("·ÎÄÃÀÛ¾÷³»¿ªÀ» ¿ø°İÀúÀå¼Ò¿¡ ¿Ã¸®ÀÚ.");
+        System.out.println("ë¡œì»¬ì‘ì—…ë‚´ì—­ì„ ì›ê²©ì €ì¥ì†Œì— ì˜¬ë¦¬ì.");
+        System.out.println("github direct file modify");
     }
 
 }
